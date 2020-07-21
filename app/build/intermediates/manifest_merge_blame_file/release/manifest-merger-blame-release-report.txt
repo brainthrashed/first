@@ -1,0 +1,115 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="aldan.talba.rf"
+4    android:versionCode="1"
+5    android:versionName="1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->G:\WEB\app\android\for_ulus\aldan\AldanTalbaRel_03(ofline1page)_ykt\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->G:\WEB\app\android\for_ulus\aldan\AldanTalbaRel_03(ofline1page)_ykt\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->G:\WEB\app\android\for_ulus\aldan\AldanTalbaRel_03(ofline1page)_ykt\app\src\main\AndroidManifest.xml:5:2-63
+11-->G:\WEB\app\android\for_ulus\aldan\AldanTalbaRel_03(ofline1page)_ykt\app\src\main\AndroidManifest.xml:5:19-61
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->G:\WEB\app\android\for_ulus\aldan\AldanTalbaRel_03(ofline1page)_ykt\app\src\main\AndroidManifest.xml:6:2-75
+12-->G:\WEB\app\android\for_ulus\aldan\AldanTalbaRel_03(ofline1page)_ykt\app\src\main\AndroidManifest.xml:6:19-73
+13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+13-->G:\WEB\app\android\for_ulus\aldan\AldanTalbaRel_03(ofline1page)_ykt\app\src\main\AndroidManifest.xml:7:2-76
+13-->G:\WEB\app\android\for_ulus\aldan\AldanTalbaRel_03(ofline1page)_ykt\app\src\main\AndroidManifest.xml:7:19-74
+14
+15    <application
+15-->G:\WEB\app\android\for_ulus\aldan\AldanTalbaRel_03(ofline1page)_ykt\app\src\main\AndroidManifest.xml:8:2-52:16
+16        android:allowBackup="false"
+16-->G:\WEB\app\android\for_ulus\aldan\AldanTalbaRel_03(ofline1page)_ykt\app\src\main\AndroidManifest.xml:9:3-30
+17        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+17-->[com.android.support:support-compat:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\3efdf49b5fe1fb0c71e138981e880ddd\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+18        android:hardwareAccelerated="true"
+18-->G:\WEB\app\android\for_ulus\aldan\AldanTalbaRel_03(ofline1page)_ykt\app\src\main\AndroidManifest.xml:15:9-43
+19        android:icon="@drawable/app_icon"
+19-->G:\WEB\app\android\for_ulus\aldan\AldanTalbaRel_03(ofline1page)_ykt\app\src\main\AndroidManifest.xml:11:3-36
+20        android:label="ТАЛБА Алдан beta"
+20-->G:\WEB\app\android\for_ulus\aldan\AldanTalbaRel_03(ofline1page)_ykt\app\src\main\AndroidManifest.xml:10:3-35
+21        android:largeHeap="true"
+21-->G:\WEB\app\android\for_ulus\aldan\AldanTalbaRel_03(ofline1page)_ykt\app\src\main\AndroidManifest.xml:12:3-27
+22        android:theme="@style/AppTheme" >
+22-->G:\WEB\app\android\for_ulus\aldan\AldanTalbaRel_03(ofline1page)_ykt\app\src\main\AndroidManifest.xml:13:3-34
+23        <activity
+23-->G:\WEB\app\android\for_ulus\aldan\AldanTalbaRel_03(ofline1page)_ykt\app\src\main\AndroidManifest.xml:16:3-42:14
+24            android:name="aldan.talba.rf.MainActivity"
+24-->G:\WEB\app\android\for_ulus\aldan\AldanTalbaRel_03(ofline1page)_ykt\app\src\main\AndroidManifest.xml:17:4-32
+25            android:configChanges="orientation|screenSize" >
+25-->G:\WEB\app\android\for_ulus\aldan\AldanTalbaRel_03(ofline1page)_ykt\app\src\main\AndroidManifest.xml:18:4-50
+26            <intent-filter>
+26-->G:\WEB\app\android\for_ulus\aldan\AldanTalbaRel_03(ofline1page)_ykt\app\src\main\AndroidManifest.xml:19:4-22:20
+27                <action android:name="android.intent.action.MAIN" />
+27-->G:\WEB\app\android\for_ulus\aldan\AldanTalbaRel_03(ofline1page)_ykt\app\src\main\AndroidManifest.xml:20:5-56
+27-->G:\WEB\app\android\for_ulus\aldan\AldanTalbaRel_03(ofline1page)_ykt\app\src\main\AndroidManifest.xml:20:13-54
+28
+29                <category android:name="android.intent.category.LAUNCHER" />
+29-->G:\WEB\app\android\for_ulus\aldan\AldanTalbaRel_03(ofline1page)_ykt\app\src\main\AndroidManifest.xml:21:5-64
+29-->G:\WEB\app\android\for_ulus\aldan\AldanTalbaRel_03(ofline1page)_ykt\app\src\main\AndroidManifest.xml:21:15-62
+30            </intent-filter>
+31            <intent-filter>
+31-->G:\WEB\app\android\for_ulus\aldan\AldanTalbaRel_03(ofline1page)_ykt\app\src\main\AndroidManifest.xml:24:4-41:20
+32                <action android:name="android.intent.action.VIEW" />
+32-->G:\WEB\app\android\for_ulus\aldan\AldanTalbaRel_03(ofline1page)_ykt\app\src\main\AndroidManifest.xml:25:5-57
+32-->G:\WEB\app\android\for_ulus\aldan\AldanTalbaRel_03(ofline1page)_ykt\app\src\main\AndroidManifest.xml:25:13-54
+33
+34                <category android:name="android.intent.category.DEFAULT" />
+34-->G:\WEB\app\android\for_ulus\aldan\AldanTalbaRel_03(ofline1page)_ykt\app\src\main\AndroidManifest.xml:26:5-64
+34-->G:\WEB\app\android\for_ulus\aldan\AldanTalbaRel_03(ofline1page)_ykt\app\src\main\AndroidManifest.xml:26:15-61
+35                <category android:name="android.intent.category.BROWSABLE" />
+35-->G:\WEB\app\android\for_ulus\aldan\AldanTalbaRel_03(ofline1page)_ykt\app\src\main\AndroidManifest.xml:27:5-66
+35-->G:\WEB\app\android\for_ulus\aldan\AldanTalbaRel_03(ofline1page)_ykt\app\src\main\AndroidManifest.xml:27:15-63
+36
+37                <data
+37-->G:\WEB\app\android\for_ulus\aldan\AldanTalbaRel_03(ofline1page)_ykt\app\src\main\AndroidManifest.xml:29:5-31:30
+38                    android:host="*.xn--80aac3b7a.xn--p1ai"
+38-->G:\WEB\app\android\for_ulus\aldan\AldanTalbaRel_03(ofline1page)_ykt\app\src\main\AndroidManifest.xml:30:6-45
+39                    android:scheme="http" />
+39-->G:\WEB\app\android\for_ulus\aldan\AldanTalbaRel_03(ofline1page)_ykt\app\src\main\AndroidManifest.xml:31:6-27
+40                <data
+40-->G:\WEB\app\android\for_ulus\aldan\AldanTalbaRel_03(ofline1page)_ykt\app\src\main\AndroidManifest.xml:29:5-31:30
+41                    android:host="*.xn--80aac3b7a.xn--p1ai"
+41-->G:\WEB\app\android\for_ulus\aldan\AldanTalbaRel_03(ofline1page)_ykt\app\src\main\AndroidManifest.xml:30:6-45
+42                    android:scheme="https" />
+42-->G:\WEB\app\android\for_ulus\aldan\AldanTalbaRel_03(ofline1page)_ykt\app\src\main\AndroidManifest.xml:31:6-27
+43                <data
+43-->G:\WEB\app\android\for_ulus\aldan\AldanTalbaRel_03(ofline1page)_ykt\app\src\main\AndroidManifest.xml:29:5-31:30
+44                    android:host="*.талба.рф"
+44-->G:\WEB\app\android\for_ulus\aldan\AldanTalbaRel_03(ofline1page)_ykt\app\src\main\AndroidManifest.xml:30:6-45
+45                    android:scheme="http" />
+45-->G:\WEB\app\android\for_ulus\aldan\AldanTalbaRel_03(ofline1page)_ykt\app\src\main\AndroidManifest.xml:31:6-27
+46                <data
+46-->G:\WEB\app\android\for_ulus\aldan\AldanTalbaRel_03(ofline1page)_ykt\app\src\main\AndroidManifest.xml:29:5-31:30
+47                    android:host="*.талба.рф"
+47-->G:\WEB\app\android\for_ulus\aldan\AldanTalbaRel_03(ofline1page)_ykt\app\src\main\AndroidManifest.xml:30:6-45
+48                    android:scheme="https" />
+48-->G:\WEB\app\android\for_ulus\aldan\AldanTalbaRel_03(ofline1page)_ykt\app\src\main\AndroidManifest.xml:31:6-27
+49            </intent-filter>
+50        </activity>
+51        <activity
+51-->G:\WEB\app\android\for_ulus\aldan\AldanTalbaRel_03(ofline1page)_ykt\app\src\main\AndroidManifest.xml:43:3-45:52
+52            android:name="aldan.talba.rf.UlusyActivity"
+52-->G:\WEB\app\android\for_ulus\aldan\AldanTalbaRel_03(ofline1page)_ykt\app\src\main\AndroidManifest.xml:44:4-33
+53            android:configChanges="orientation|screenSize" />
+53-->G:\WEB\app\android\for_ulus\aldan\AldanTalbaRel_03(ofline1page)_ykt\app\src\main\AndroidManifest.xml:45:4-50
+54        <activity
+54-->G:\WEB\app\android\for_ulus\aldan\AldanTalbaRel_03(ofline1page)_ykt\app\src\main\AndroidManifest.xml:46:3-48:52
+55            android:name="aldan.talba.rf.OboutActivity"
+55-->G:\WEB\app\android\for_ulus\aldan\AldanTalbaRel_03(ofline1page)_ykt\app\src\main\AndroidManifest.xml:47:4-33
+56            android:configChanges="orientation|screenSize" />
+56-->G:\WEB\app\android\for_ulus\aldan\AldanTalbaRel_03(ofline1page)_ykt\app\src\main\AndroidManifest.xml:48:4-50
+57
+58        <uses-library
+58-->G:\WEB\app\android\for_ulus\aldan\AldanTalbaRel_03(ofline1page)_ykt\app\src\main\AndroidManifest.xml:49:9-51:30
+59            android:name="org.apache.http.legacy"
+59-->G:\WEB\app\android\for_ulus\aldan\AldanTalbaRel_03(ofline1page)_ykt\app\src\main\AndroidManifest.xml:50:4-41
+60            android:required="false" />
+60-->G:\WEB\app\android\for_ulus\aldan\AldanTalbaRel_03(ofline1page)_ykt\app\src\main\AndroidManifest.xml:51:4-28
+61    </application>
+62
+63</manifest>

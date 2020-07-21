@@ -1,0 +1,4 @@
+#Tue Jul 21 14:48:25 YAKT 2020
+base.0=G\:\\WEB\\app\\android\\for_ulus\\aldan\\AldanTalbaRel_03(ofline1page)_ykt\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

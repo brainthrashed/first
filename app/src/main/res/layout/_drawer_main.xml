@@ -1,0 +1,131 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical">
+	<LinearLayout
+		android:id="@+id/linear1"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:gravity="center_horizontal"
+		android:orientation="vertical"
+		android:alpha="0.7"
+		android:layout_gravity="left"
+		tools:ignore="RtlHardcoded,UselessParent">
+
+		<TextView
+			android:id="@+id/textview1"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:padding="8dp"
+			android:text="МЕНЮ"
+			android:textColor="#F4F4F4"
+			android:textSize="18sp"
+			android:textStyle="bold" />
+		<Button
+			android:id="@+id/button4"
+			android:layout_width="272dp"
+			android:layout_height="wrap_content"
+			android:padding="8dp"
+			android:background="@drawable/button"
+			android:text="Обновить страницу"
+			android:textSize="12sp"
+			android:textStyle="bold"
+			android:textColor="#000000"/>
+
+		<Button
+			android:id="@+id/button3"
+			android:layout_width="272dp"
+			android:layout_height="wrap_content"
+			android:layout_gravity="center_horizontal|center_vertical"
+			android:background="@drawable/button"
+			android:padding="8dp"
+			android:text="очистить кеш"
+			android:textColor="#000000"
+			android:textSize="12sp"
+			android:textStyle="bold" />
+
+		<Button
+			android:id="@+id/button7"
+			android:layout_width="272dp"
+			android:layout_height="wrap_content"
+			android:background="@drawable/button"
+			android:padding="8dp"
+			android:text="Другие улусы и Якутск"
+			android:textColor="#000000"
+			android:textSize="12sp"
+			android:textStyle="bold" />
+
+		<Switch
+			android:id="@+id/switch1"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_gravity="left|bottom"
+			android:paddingLeft="8dp"
+			android:paddingTop="28dp"
+			android:paddingRight="8dp"
+			android:paddingBottom="8dp"
+			android:text="не выключать экран"
+			android:textColor="#FFFFFF"
+			android:textColorHighlight="#FFFFFF"
+			android:textColorLink="#FFFFFF"
+			android:textSize="12sp"
+			android:textStyle="italic" />
+
+		<LinearLayout
+			android:id="@+id/linear2"
+			android:layout_width="match_parent"
+			android:layout_height="match_parent"
+			android:gravity="center_horizontal|bottom"
+			android:orientation="vertical">
+
+			<Button
+				android:id="@+id/button1"
+				android:layout_width="272dp"
+				android:layout_height="wrap_content"
+				android:layout_gravity="center_horizontal|bottom"
+				android:background="@drawable/button"
+				android:gravity="center_horizontal|center_vertical"
+				android:padding="8dp"
+				android:text="о приложении"
+				android:textColor="#000000"
+				android:textSize="12sp"
+				android:textStyle="bold|italic" />
+
+			<Button
+				android:id="@+id/button6"
+				android:layout_width="272dp"
+				android:layout_height="wrap_content"
+				android:background="@drawable/button"
+				android:padding="8dp"
+				android:text="Поделиться приложением"
+				android:textColor="#000000"
+				android:textSize="12sp"
+				android:textStyle="bold" />
+
+			<Button
+				android:id="@+id/button5"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_gravity="center_horizontal|bottom"
+				android:background="@drawable/button"
+				android:padding="8dp"
+				android:text="Выйти"
+				android:textColor="#000000"
+				android:textSize="12sp"
+				android:textStyle="bold" />
+		</LinearLayout>
+
+		<Button
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_gravity="center_horizontal|bottom"
+			android:background="@drawable/button"
+			android:gravity="center_horizontal|center_vertical"
+			android:padding="8dp"
+			android:text="о приложении"
+			android:textColor="#000000"
+			android:textSize="12sp"
+			android:textStyle="bold|italic" />
+	</LinearLayout>
+</LinearLayout>

@@ -1,0 +1,407 @@
+{
+  "project_info": {
+    "project_number": "194528311651",
+    "firebase_url": "https://talba-859b3.firebaseio.com",
+    "project_id": "talba-859b3",
+    "storage_bucket": "talba-859b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194528311651:android:881b1808185c1d3141bb56",
+        "android_client_info": {
+          "package_name": "aldan.talba.rf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194528311651-pnmudcsu42pg9hm2tf6sae0nkfbrubcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmFyVxowm3Yv3RvmeXHRtsS0QU9uXxLak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194528311651-pnmudcsu42pg9hm2tf6sae0nkfbrubcs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "194528311651-1kolfstjipq16o7f2vp9p5uu96aam6is.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "project.talba.rf"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194528311651:android:1ebe4de05427689841bb56",
+        "android_client_info": {
+          "package_name": "gornyi.talba.rf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194528311651-pnmudcsu42pg9hm2tf6sae0nkfbrubcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmFyVxowm3Yv3RvmeXHRtsS0QU9uXxLak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194528311651-pnmudcsu42pg9hm2tf6sae0nkfbrubcs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "194528311651-1kolfstjipq16o7f2vp9p5uu96aam6is.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "project.talba.rf"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194528311651:android:a21dfba6b603eda541bb56",
+        "android_client_info": {
+          "package_name": "mirnyi.talba.rf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194528311651-pnmudcsu42pg9hm2tf6sae0nkfbrubcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmFyVxowm3Yv3RvmeXHRtsS0QU9uXxLak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194528311651-pnmudcsu42pg9hm2tf6sae0nkfbrubcs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "194528311651-1kolfstjipq16o7f2vp9p5uu96aam6is.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "project.talba.rf"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194528311651:android:1d6ca32c5703e43041bb56",
+        "android_client_info": {
+          "package_name": "nerungri.talba.rf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194528311651-pnmudcsu42pg9hm2tf6sae0nkfbrubcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmFyVxowm3Yv3RvmeXHRtsS0QU9uXxLak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194528311651-pnmudcsu42pg9hm2tf6sae0nkfbrubcs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "194528311651-1kolfstjipq16o7f2vp9p5uu96aam6is.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "project.talba.rf"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194528311651:android:eb12f91e5fde225c41bb56",
+        "android_client_info": {
+          "package_name": "nurba.talba.rf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194528311651-pnmudcsu42pg9hm2tf6sae0nkfbrubcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmFyVxowm3Yv3RvmeXHRtsS0QU9uXxLak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194528311651-pnmudcsu42pg9hm2tf6sae0nkfbrubcs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "194528311651-1kolfstjipq16o7f2vp9p5uu96aam6is.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "project.talba.rf"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194528311651:android:f4e50b7b943f523e",
+        "android_client_info": {
+          "package_name": "project.talba.rf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194528311651-pnmudcsu42pg9hm2tf6sae0nkfbrubcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmFyVxowm3Yv3RvmeXHRtsS0QU9uXxLak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194528311651-pnmudcsu42pg9hm2tf6sae0nkfbrubcs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "194528311651-1kolfstjipq16o7f2vp9p5uu96aam6is.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "project.talba.rf"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194528311651:android:fe7fd4bc8344572541bb56",
+        "android_client_info": {
+          "package_name": "project.talba.rf.alfa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194528311651-pnmudcsu42pg9hm2tf6sae0nkfbrubcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmFyVxowm3Yv3RvmeXHRtsS0QU9uXxLak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194528311651-pnmudcsu42pg9hm2tf6sae0nkfbrubcs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "194528311651-1kolfstjipq16o7f2vp9p5uu96aam6is.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "project.talba.rf"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194528311651:android:93e5a368ba14ba6541bb56",
+        "android_client_info": {
+          "package_name": "suntar.talba.rf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194528311651-pnmudcsu42pg9hm2tf6sae0nkfbrubcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmFyVxowm3Yv3RvmeXHRtsS0QU9uXxLak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194528311651-pnmudcsu42pg9hm2tf6sae0nkfbrubcs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "194528311651-1kolfstjipq16o7f2vp9p5uu96aam6is.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "project.talba.rf"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194528311651:android:c0af82ee97cba5d341bb56",
+        "android_client_info": {
+          "package_name": "vervil.talba.rf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194528311651-pnmudcsu42pg9hm2tf6sae0nkfbrubcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmFyVxowm3Yv3RvmeXHRtsS0QU9uXxLak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194528311651-pnmudcsu42pg9hm2tf6sae0nkfbrubcs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "194528311651-1kolfstjipq16o7f2vp9p5uu96aam6is.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "project.talba.rf"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194528311651:android:1230ac554f10223841bb56",
+        "android_client_info": {
+          "package_name": "vilyuisk.talba.rf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194528311651-pnmudcsu42pg9hm2tf6sae0nkfbrubcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmFyVxowm3Yv3RvmeXHRtsS0QU9uXxLak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194528311651-pnmudcsu42pg9hm2tf6sae0nkfbrubcs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "194528311651-1kolfstjipq16o7f2vp9p5uu96aam6is.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "project.talba.rf"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194528311651:android:f5e2345a0e42bd4d41bb56",
+        "android_client_info": {
+          "package_name": "yakutsk.talba.rf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194528311651-pnmudcsu42pg9hm2tf6sae0nkfbrubcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmFyVxowm3Yv3RvmeXHRtsS0QU9uXxLak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194528311651-pnmudcsu42pg9hm2tf6sae0nkfbrubcs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "194528311651-1kolfstjipq16o7f2vp9p5uu96aam6is.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "project.talba.rf"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
