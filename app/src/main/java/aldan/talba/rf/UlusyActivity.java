@@ -307,6 +307,7 @@ public class UlusyActivity extends AppCompatActivity {
 
 		});
 		webview2.setDownloadListener(new DownloadListener() { public void onDownloadStart(String url, String userAgent, String contentDisposition, String mimetype, long contentLength) { Intent intent = new Intent(Intent.ACTION_VIEW); intent.setData(Uri.parse(url)); startActivity(intent); } });
+		registerForContextMenu(webview2);
 		webview2.loadUrl("file:///android_asset/www/index2.html");
 
 
